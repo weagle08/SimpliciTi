@@ -1,0 +1,13 @@
+{
+  "name": "SimpliciTi",
+  "version": "1.1.1",
+  "homepage": "https://github.com/weagle08/SimpliciTi",
+  "authors": [
+    "Texas Instruments"
+  ],
+  "description": "Texas Instruments SimpliciTi wireless protocol stack",
+  "keywords": [
+    "simpliciti",
+    "wireless"
+  ]
+}
